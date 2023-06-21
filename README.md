@@ -1,3 +1,6 @@
+# UPDATE
+Don't use files from this repo, use ![this repo](https://github.com/hamburgerghini1/kde_macos_2023) instead :)
+
 # KMac
 Mac OS styled desktop theme for KDE Plasma
 
